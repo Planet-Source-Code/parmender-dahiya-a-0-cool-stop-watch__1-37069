@@ -1,0 +1,4 @@
+This is my first program in VB.
+To learn More about the program use the help.
+I am sorry about the documentation within the program.
+But code is self explanatory. Where ever needed i have written some comments.
